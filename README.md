@@ -42,3 +42,6 @@ See the [setup instructions](./readinstructions.txt) for detailed information on
 ## Hackathon Project
 
 This project was built for the Odoo Hackathon to showcase modern web development practices and create a useful tool for communities.
+
+
+Here is my Video of Project : https://drive.google.com/file/d/1NznVvq2zsySDmaSMtJnji-CaKWbQQVib/view?usp=sharing
